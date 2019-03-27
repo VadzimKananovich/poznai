@@ -1,0 +1,27 @@
+.slick-arrow {
+  width: 45px;
+  height: 45px;
+  color: transparent;
+  position: absolute;
+  top: calc(100% / 2 - 45px / 2);
+  z-index: 200;
+  border-radius: 50%;
+  border: none!important;
+  outline: none!important;
+  cursor: pointer;
+  background-color: white;
+  background-position: center;
+  background-size: 100% 100%;
+  transition: 0.3s;
+}
+.slick-arrow:hover {
+  transform: scale(1.1);
+}
+.slick-next {
+  right: 10px;
+  background-image: url('../img/right-btn.svg');
+}
+.slick-prev {
+  left: 10px;
+  background-image: url('../img/left-btn.svg');
+}

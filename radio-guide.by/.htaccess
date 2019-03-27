@@ -1,0 +1,1 @@
+RewriteRule ^(.*)$ https://poznai.by/radiogid.html [R=permanent,L]

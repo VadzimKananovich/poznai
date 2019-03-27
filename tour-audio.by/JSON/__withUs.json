@@ -1,0 +1,33 @@
+{
+  "container": "#withUs",
+  "json": "JSON/withUs.json",
+  "request_file": "includes/request.php",
+  "jsonTitle": "С нами",
+  "developer": true,
+  "table": {
+    "type": "normal",
+    "array": "cards",
+    "items": {
+      "title": "Загаловок",
+      "desc": "Описание",
+      "img": "Картинка"
+    },
+    "imgPath": "imgPath",
+    "singleImg": [
+      "img"
+    ],
+    "text": [
+      "title",
+      "desc"
+    ],
+    "itemsSize": {
+      "title": "200px",
+      "img": "100px"
+    }
+  },
+  "items": {
+    "text": {
+      "title": "Загаловок"
+    }
+  }
+}

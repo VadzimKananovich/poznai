@@ -1,0 +1,265 @@
+/*===========================================
+COMMON STYLES
+=============================================*/
+
+.top-nav ul.right {
+	margin: 0;
+}
+.error {
+	box-shadow: 0 0 3px #f24d19
+}
+.close-alert {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	color: #92c500!important;
+	cursor: pointer;
+	margin: 0!important;
+}
+h3 {
+	text-align: center;
+	text-transform: uppercase;
+	padding: 30px 0;
+}
+
+.close-btn {
+	position:absolute;
+	top: 0;
+	right: 0;
+	width: 45px;
+	height: 45px;
+	cursor: pointer;
+}
+.close-btn i {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: inherit;
+	height: inherit;
+	font-size: 25px;
+	color: #92c500;
+	transition: 0.3s;
+}
+.close-btn:hover i {
+	color: #698b09;
+}
+@media(max-width: 768px){
+	.menu-container {
+		position: relative;
+	}
+	.logo-top-container{
+		position: absolute;
+		top: 0;
+		left: 10px;
+	}
+}
+
+/*===========================================
+MODAL WINDOW
+=============================================*/
+.modal-from-right {
+	background-color: white;
+	position: fixed;
+	top: 0;
+	left: 100vw;
+	width: 100%;
+	height: 100%;
+	z-index: 1000;
+	padding: 30px 0;
+	opacity: 0;
+	transition: 0.3s;
+	transform: translateZ(0);
+	overflow: auto;
+}
+.modal-slider {
+	width: 100%;
+}
+.carousel-container {
+	width: 100%;
+}
+.open-modal-right{
+	left: 0;
+	opacity: 1;
+}
+.modal-right-title {
+	font-size: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	color:#ad890c;
+}
+.modal-right-content {
+	font-size: 20px;
+	font-style: italic;
+}
+.modal-right-wrapper {
+	position: relative;
+}
+.modal-right-price {
+	color:#92c500;
+	font-size: 30px;
+}
+.modal-right-price sup {
+	font-style: italic;
+}
+.modal-right-header {
+	position: relative;
+}
+.tour-row {
+	margin-bottom: 30px;
+}
+@media(max-width: 770px){
+	.carousel-container {
+		width: 95vw;
+		min-height: 300px;
+	}
+	.modal-slider {
+		display:flex;
+		justify-content: center;
+		margin-bottom: 30px;
+	}
+}
+/*===========================================
+HOME
+=============================================*/
+/* POPULAR SECTION */
+
+/* TOURINCLUDE SECTION */
+#tourinclude .row {
+	margin-bottom: 30px;
+}
+.tourinclude-cell {
+	display: flex;
+	border: 1px solid #cdcdcd;
+	width: 100%;
+	height: 100%;
+	padding: 15px;
+}
+.tourinclude-ico {
+	flex: 1;
+	margin-right: 15px;
+}
+.tourinclude-ico i {
+	display: flex;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+	font-size: 35px;
+	color: #606060;
+}
+.tourinclude-content {
+	flex: 3;
+}
+
+
+@media(max-width: 768px){
+	#tourinclude .row {
+		margin-bottom: 0;
+	}
+	#tourinclude .col-md-6 {
+		margin-bottom: 30px;
+	}
+}
+
+@media(max-width: 400px){
+	.tourinclude-cell{
+		flex-direction: column;
+	}
+}
+/* POPULAR SECTION */
+#popular .container-fluid {
+	padding:0;
+}
+#popular .row {
+	margin: 0;
+}
+#popular .col-md-12 {
+	padding: 0;
+}
+
+
+/*===========================================
+ABOUT PAGE
+=============================================*/
+.work .line, .services .line {
+	display: block;
+}
+.work .tab-nav {
+	display:flex;
+	justify-content: center;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	position: relative;
+	z-index: 10;
+}
+.work .tab-nav > * {
+	flex-grow: 0;
+	flex-shrink: 0;
+	width: auto;
+}
+.about {
+	margin-bottom: 50px;
+}
+.comments {
+	margin-bottom: 65px;
+	font-size: 20px;
+	color: #00283a;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.comments .col-md-3 {
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+}
+.comments-img {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50%;
+	overflow: hidden;
+	background-color: white;
+	box-shadow: 0 3px 3px #999999;
+	margin-bottom: 15px;
+	max-width: 200px;
+	max-height: 200px;
+}
+.comments-img img {
+	max-width: 100%;
+	max-height: 100%;
+}
+.comments-user {
+	text-align:center;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.comments-content {
+	font-style: italic;
+	margin-bottom: 15px;
+}
+.comments-date {
+	font-size: 16px;
+}
+.submit-button {
+	margin: 15px;
+}
+
+
+/*===========================================
+CONTACT PAGE
+=============================================*/
+.contact .line {
+	display: block;
+}
+.contact form.customform button.color-btn {
+	width: auto;
+	white-space: nowrap;
+}
+.onmap iframe {
+	width: 100%;
+}
+.onmap {
+	margin-bottom: 65px;
+}

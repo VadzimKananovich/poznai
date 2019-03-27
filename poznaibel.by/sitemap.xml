@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+	http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	
+	<url>
+	<loc>http://poznaibel.by/</loc>
+	<changefreq>always</changefreq>
+	<priority>1</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus</loc>
+	<changefreq>always</changefreq>
+	<priority>1</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners</loc>
+	<changefreq>always</changefreq>
+	<priority>1</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/about</loc>
+	<changefreq>always</changefreq>
+	<priority>1</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/contact</loc>
+	<changefreq>always</changefreq>
+	<priority>1</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=kids&amp;index=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=kids&amp;index=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=kids&amp;index=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=kids&amp;index=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=kids&amp;index=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=kids&amp;index=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=kids&amp;index=7</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=adult&amp;index=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=adult&amp;index=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=adult&amp;index=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=adult&amp;index=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/belarus?tour=belarus&amp;key=adult&amp;index=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=7</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=8</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=kids&amp;index=9</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=adult&amp;index=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=adult&amp;index=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=adult&amp;index=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=adult&amp;index=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=family&amp;index=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=family&amp;index=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=family&amp;index=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/foreigners?tour=foreigners&amp;key=family&amp;index=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.8</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=0</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=7</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=8</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=9</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=10</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=11</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=12</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=13</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=14</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=15</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=16</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=17</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=18</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=19</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=20</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=architecture&amp;item=21</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=brands&amp;item=0</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=brands&amp;item=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=brands&amp;item=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=brands&amp;item=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=brands&amp;item=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=brands&amp;item=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=brands&amp;item=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=castels&amp;item=0</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=castels&amp;item=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=castels&amp;item=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=castels&amp;item=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=castels&amp;item=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=castels&amp;item=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=castels&amp;item=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=culture&amp;item=0</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=culture&amp;item=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=culture&amp;item=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=culture&amp;item=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=culture&amp;item=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=culture&amp;item=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=culture&amp;item=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=kitchen&amp;item=0</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=kitchen&amp;item=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=kitchen&amp;item=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=kitchen&amp;item=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=kitchen&amp;item=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=kitchen&amp;item=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=kitchen&amp;item=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=kitchen&amp;item=7</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=0</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=7</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=8</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=9</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=10</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=11</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=12</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=13</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=14</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=15</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=museum&amp;item=16</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=nature&amp;item=0</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=nature&amp;item=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=nature&amp;item=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=nature&amp;item=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=nature&amp;item=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=nature&amp;item=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=0</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=1</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=2</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=3</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=4</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=5</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=6</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=7</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=8</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=9</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=10</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/?preview=home&amp;key=palace&amp;item=11</loc>
+	<changefreq>always</changefreq>
+	<priority>0.5</priority>
+	</url>
+	
+	<url>
+	<loc>http://poznaibel.by/</loc>
+		<image:image>
+		<image:loc>http://poznaibel.by/img/header/Dq9y3wHnMC.jpg</image:loc>
+		<image:title>Необычная культовая архитектура </image:title>
+		<image:caption>Благодаря переплетению религий и архитектурных стилей храмовая архитектура Беларуси очень своеобразна и необычна, а многие из культовых сооружений – абсолютно уникальны…</image:caption>
+		</image:image>
+		<image:image>
+		<image:loc>http://poznaibel.by/img/header/8RWCaa8zL7.jpg</image:loc>
+		<image:title>Качественные бренды</image:title>
+		<image:caption>Бренды Беларуси пользуются широкой популярностью среди покупателей из разных стран мира. Среди широко известных брендов Беларуси выступают производители бытовой техники, машиностроительных гигантов, популярные марки обуви и одежды, высококачественные продукты питания, натуральная косметика и парфюмерия, домашний текстиль и ювелирные украшения.</image:caption>
+		</image:image>
+		<image:image>
+		<image:loc>http://poznaibel.by/img/header/iyulCGsCen.jpg</image:loc>
+		<image:title>Величественные замки</image:title>
+		<image:caption>На территории Беларуси находилось более 100 замков. Большинство из них, к сожалению, не дошли до наших дней.  А те, которые уцелели  – уникальны и не имеют аналогов в Европе. Белорусские замки  - это не только национальное достояние нашей страны, а они стали частью мировой архитектурной сокровищницы. Мирский замок и Несвижский дворцово-парковый ансамбль входят в Список всемирного культурного наследия ЮНЕСКО.</image:caption>
+		</image:image>
+		<image:image>
+		<image:loc>http://poznaibel.by/img/header/HxLuiNM70B.jpg</image:loc>
+		<image:title>Мемориальные комплексы</image:title>
+		<image:caption>Особого внимания заслуживают мемориальные комплексы, которые посвящены событиям Второй мировой войны, во время которой погиб каждый третий белорус.</image:caption>
+		</image:image>
+		<image:image>
+		<image:loc>http://poznaibel.by/img/header/oGiwcl3C7P.jpg</image:loc>
+		<image:title>Национальная кухня</image:title>
+		<image:caption>Белорусская кухня имеет многовековую, очень богатую и интересную историю. К национальным особенностям  белорусской кухни относится широкое использование картофеля. Особенно популярны следующие блюда из картофеля: драники, клёцки, колдуны, картофельные запеканки, бабка, капытки, комовики, тушёный картофель с мясом и грибами. Картофель («Бульба»)  для белорусов – это второй хлеб.</image:caption>
+		</image:image>
+		<image:image>
+		<image:loc>http://poznaibel.by/img/header/cf2lPodNYp.jpg</image:loc>
+		<image:title>Музеи и туристические комплексы</image:title>
+		<image:caption>Музеи – это истинные клады, в которых хранятся культурные и исторические памятники страны. Всего в нашей стране работает около 160 музеев. В Беларуси также существует много интересных, необычных музейных и туристических комплексов, посетив которые Вы поближе познакомитесь с нашей историей, культурой, национальными традициями и ремеслами.</image:caption>
+		</image:image>
+		<image:image>
+		<image:loc>http://poznaibel.by/img/header/TZgjaKxJ46.jpg</image:loc>
+		<image:title>Завораживающая природа</image:title>
+		<image:caption>Природа Беларуси – это множество рек, озер, болот, богатая флора и фауна. Треть территории Беларуси занимают красивейшие леса, чему соответствует зеленая полоска в белорусском флаге. Нашу страну не просто так  называют синеокой, ведь на ее территории около 11 тысяч озер и 20 тысяч рек! А белорусские болота являются  «легкими Европы».</image:caption>
+		</image:image>
+		<image:image>
+		<image:loc>http://poznaibel.by/img/header/TBarbaDhhw.jpg</image:loc>
+		<image:title>Роскошные дворцы и усадьбы</image:title>
+		<image:caption>На территории Беларуси  на протяжении веков жили польские шляхтичи, русские дворяне и белорусские знатные роды: Радизивиллы, Сапеги, Паскевичи, Чапские, Хрептовичи. От них нам достались в наследство роскошные дворцы и усадьбы, в которых проходили светские приемы, и собиралась элита общества.</image:caption>
+		</image:image>
+	</url>
+	</urlset>

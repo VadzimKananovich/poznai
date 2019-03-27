@@ -1,0 +1,25 @@
+{
+  "container": "#whyWe",
+  "json": "JSON/whyWe.json",
+  "request_file": "includes/request.php",
+  "jsonTitle": "Почему мы",
+  "developer": true,
+  "items": {
+    "text": {
+      "title": "Загаловок",
+      "sub_title": "Подзаголовок"
+    }
+  },
+  "table": {
+    "type": "normal",
+    "array": "whyWe",
+    "items": {
+      "title": "Название",
+      "ico": "Иконка (fontawesome.com)"
+    },
+    "text": [
+      "title",
+      "ico"
+    ]
+  }
+}

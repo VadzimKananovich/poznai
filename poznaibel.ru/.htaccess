@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule ^belarus$ "belarus.php"
+RewriteRule ^foreigners$ "foreigners.php"
+RewriteRule ^about$ "about.php"
+RewriteRule ^contact$ "contact.php"

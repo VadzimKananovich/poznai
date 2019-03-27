@@ -1,0 +1,1 @@
+{"container":"#userSet","json":"panel/users.json","request_file":"includes/request.php","jsonTitle":"Настройки аккаунта","developer":false,"table":{"type":"normal","array":"users","items":{"name":"Имя","password":"Пароль"},"rowControl":[],"tableControl":["saveBtn"],"text":["name","password"]}}

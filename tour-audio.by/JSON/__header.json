@@ -1,0 +1,35 @@
+{
+  "container": "#headerContainer",
+  "json": "JSON/header.json",
+  "request_file": "includes/request.php",
+  "jsonTitle": "Слайдер в шапке",
+  "developer": true,
+  "table": {
+    "type": "normal",
+    "array": "slider",
+    "items": {
+      "title": "Загаловок",
+      "for": "Для кого",
+      "slogan": "Подпись",
+      "desc": "Описание",
+      "img": "Картинка"
+    },
+    "itemsSize": {
+      "title": "100px",
+      "for": "100px",
+      "slogan": "100px",
+      "img": "100px"
+    },
+    "imgPath": "imgPath",
+    "singleImg": [
+      "img"
+    ],
+    "text": [
+      "title",
+      "for",
+      "slogan",
+      "desc"
+    ],
+    "rowHeight": "50px"
+  }
+}

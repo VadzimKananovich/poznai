@@ -1,0 +1,12 @@
+.show-from-bottom, .show-from-top, .show-from-left, .show-from-right {
+	height: auto;
+	position: relative;
+	overflow: hidden;
+}
+
+.show-from-bottom > span, .show-from-top > span, .show-from-left > span, .show-from-right > span {
+	display: inline-block;
+	position: relative;
+	opacity: 0;
+	transition: 1.3s;
+}

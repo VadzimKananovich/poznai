@@ -1,0 +1,223 @@
+[09.14.16 12:02:19 am] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 12:02:19 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:02:19 am] INI file located.
+
+[09.14.16 12:02:19 am] Initializing LicenseManager.exe
+[09.14.16 12:02:19 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:02:19 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:02:19 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:02:19 am] License Dir Exists: True
+[09.14.16 12:02:19 am] Root Dir Exists: True
+[09.14.16 12:02:19 am] Default Dir Exists: True
+[09.14.16 12:02:19 am] ProductId:8215 - SkuId:20
+
+[09.14.16 12:02:19 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:02:19 am] INI file located.
+
+[09.14.16 12:02:19 am] Initializing LicenseManager.exe
+[09.14.16 12:02:19 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:02:19 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:02:19 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:02:19 am] License Dir Exists: True
+[09.14.16 12:02:19 am] Root Dir Exists: True
+[09.14.16 12:02:19 am] Default Dir Exists: True
+[09.14.16 12:02:19 am] ProductId:8215 - SkuId:20
+
+[09.14.16 12:07:05 am] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_5 -loadKey 8215 -a
+
+[09.14.16 12:07:05 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:07:05 am] INI file located.
+
+[09.14.16 12:07:05 am] Initializing LicenseManager.exe
+[09.14.16 12:07:05 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:07:05 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:07:05 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:07:05 am] License Dir Exists: True
+[09.14.16 12:07:05 am] Root Dir Exists: True
+[09.14.16 12:07:05 am] Default Dir Exists: True
+[09.14.16 12:07:05 am] ProductId:8215 - SkuId:5
+
+[09.14.16 12:07:14 am] EDN User Name:Anfeston
+[09.14.16 12:07:14 am] ProductID being registered: 8215
+[09.14.16 12:07:14 am] Serial being registered: HNAA-NADKBN-FEABCE-FANN
+[09.14.16 12:07:14 am] Starting Registration Process.
+
+[09.14.16 12:07:22 am] Completed Registration Process.
+[09.14.16 12:07:22 am] Registration Error Code: 11
+[09.14.16 12:07:22 am] Registration Message: The serial number provided is not valid. (11) Correct the data and  try again. If the error occurs, use telephone registration.
+Correct the error and attempt to register again.
+
+[09.14.16 12:08:17 am] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_5 -loadKey 8215 -a
+
+[09.14.16 12:08:17 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:08:17 am] INI file located.
+
+[09.14.16 12:08:17 am] Initializing LicenseManager.exe
+[09.14.16 12:08:17 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:08:17 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:08:17 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:08:17 am] License Dir Exists: True
+[09.14.16 12:08:17 am] Root Dir Exists: True
+[09.14.16 12:08:17 am] Default Dir Exists: True
+[09.14.16 12:08:17 am] ProductId:8215 - SkuId:5
+
+[09.14.16 12:18:24 am] EDN User Name:Anfeston
+[09.14.16 12:18:24 am] ProductID being registered: 8215
+[09.14.16 12:18:24 am] Serial being registered: MNFA-NCAKPS-FKABCE-FCQN
+[09.14.16 12:18:24 am] Starting Registration Process.
+
+[09.14.16 12:18:28 am] Completed Registration Process.
+[09.14.16 12:18:28 am] Registration Error Code: 11
+[09.14.16 12:18:28 am] Registration Message: The serial number provided is not valid. (11) Correct the data and  try again. If the error occurs, use telephone registration.
+Correct the error and attempt to register again.
+
+[09.14.16 12:18:28 am] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 12:18:28 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:18:28 am] INI file located.
+
+[09.14.16 12:18:28 am] Initializing LicenseManager.exe
+[09.14.16 12:18:28 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:18:28 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:18:28 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:18:28 am] License Dir Exists: True
+[09.14.16 12:18:28 am] Root Dir Exists: True
+[09.14.16 12:18:28 am] Default Dir Exists: True
+[09.14.16 12:18:28 am] ProductId:8215 - SkuId:20
+
+[09.14.16 12:18:42 am] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 12:18:42 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:18:42 am] INI file located.
+
+[09.14.16 12:18:42 am] Initializing LicenseManager.exe
+[09.14.16 12:18:42 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:18:42 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:18:42 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:18:42 am] License Dir Exists: True
+[09.14.16 12:18:42 am] Root Dir Exists: True
+[09.14.16 12:18:42 am] Default Dir Exists: True
+[09.14.16 12:18:42 am] ProductId:8215 - SkuId:20
+
+[09.14.16 12:19:08 am] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 12:19:08 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:19:08 am] INI file located.
+
+[09.14.16 12:19:08 am] Initializing LicenseManager.exe
+[09.14.16 12:19:08 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:19:08 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:19:08 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:19:08 am] License Dir Exists: True
+[09.14.16 12:19:08 am] Root Dir Exists: True
+[09.14.16 12:19:08 am] Default Dir Exists: True
+[09.14.16 12:19:08 am] ProductId:8215 - SkuId:20
+
+[09.14.16 12:19:21 am] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_5 -loadKey 8215 -a
+
+[09.14.16 12:19:21 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:19:21 am] INI file located.
+
+[09.14.16 12:19:21 am] Initializing LicenseManager.exe
+[09.14.16 12:19:21 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:19:21 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:19:21 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:19:21 am] License Dir Exists: True
+[09.14.16 12:19:21 am] Root Dir Exists: True
+[09.14.16 12:19:21 am] Default Dir Exists: True
+[09.14.16 12:19:21 am] ProductId:8215 - SkuId:5
+
+[09.14.16 12:19:29 am] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 12:19:29 am] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 12:19:29 am] INI file located.
+
+[09.14.16 12:19:29 am] Initializing LicenseManager.exe
+[09.14.16 12:19:29 am] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 12:19:29 am] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 12:19:29 am] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 12:19:29 am] License Dir Exists: True
+[09.14.16 12:19:29 am] Root Dir Exists: True
+[09.14.16 12:19:29 am] Default Dir Exists: True
+[09.14.16 12:19:29 am] ProductId:8215 - SkuId:20
+
+[09.14.16 02:50:46 pm] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 02:50:46 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 02:50:46 pm] INI file located.
+
+[09.14.16 02:50:46 pm] Initializing LicenseManager.exe
+[09.14.16 02:50:46 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 02:50:46 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 02:50:46 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 02:50:46 pm] License Dir Exists: True
+[09.14.16 02:50:46 pm] Root Dir Exists: True
+[09.14.16 02:50:46 pm] Default Dir Exists: True
+[09.14.16 02:50:46 pm] ProductId:8215 - SkuId:20
+
+[09.14.16 02:50:56 pm] EDN User Name:Anfeston
+[09.14.16 02:50:56 pm] ProductID being registered: 8215
+[09.14.16 02:50:56 pm] Serial being registered: HNAA-NADKBN-FEABCE-FANN
+[09.14.16 02:50:56 pm] Starting Registration Process.
+
+[09.14.16 02:51:01 pm] Completed Registration Process.
+[09.14.16 02:51:01 pm] Registration Error Code: 11
+[09.14.16 02:51:01 pm] Registration Message: The serial number provided is not valid. (11) Correct the data and  try again. If the error occurs, use telephone registration.
+Correct the error and attempt to register again.
+
+[09.14.16 02:51:36 pm] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 02:51:36 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 02:51:36 pm] INI file located.
+
+[09.14.16 02:51:36 pm] Initializing LicenseManager.exe
+[09.14.16 02:51:36 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 02:51:36 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 02:51:36 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 02:51:36 pm] License Dir Exists: True
+[09.14.16 02:51:36 pm] Root Dir Exists: True
+[09.14.16 02:51:36 pm] Default Dir Exists: True
+[09.14.16 02:51:36 pm] ProductId:8215 - SkuId:20
+
+[09.14.16 02:53:20 pm] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 02:53:20 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 02:53:20 pm] INI file located.
+
+[09.14.16 02:53:20 pm] Initializing LicenseManager.exe
+[09.14.16 02:53:20 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 02:53:20 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 02:53:20 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 02:53:20 pm] License Dir Exists: True
+[09.14.16 02:53:20 pm] Root Dir Exists: True
+[09.14.16 02:53:20 pm] Default Dir Exists: True
+[09.14.16 02:53:20 pm] ProductId:8215 - SkuId:20
+
+[09.14.16 02:54:01 pm] C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\licensemanager.exe -skey 8215_20 -loadKey 4018 -a
+
+[09.14.16 02:54:01 pm] Looking for license INI file:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\cglm.ini
+
+[09.14.16 02:54:01 pm] INI file located.
+
+[09.14.16 02:54:01 pm] Initializing LicenseManager.exe
+[09.14.16 02:54:01 pm] License Repository Directory:C:\ProgramData\Embarcadero\
+[09.14.16 02:54:01 pm] Default License Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..\License
+[09.14.16 02:54:01 pm] Root Directory:C:\Program Files (x86)\Embarcadero\Studio\15.0\bin\\..
+[09.14.16 02:54:01 pm] License Dir Exists: True
+[09.14.16 02:54:01 pm] Root Dir Exists: True
+[09.14.16 02:54:01 pm] Default Dir Exists: True
+[09.14.16 02:54:01 pm] ProductId:8215 - SkuId:20
+

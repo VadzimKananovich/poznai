@@ -1,0 +1,42 @@
+{
+  "email": [
+    "<div class=\"paragraf\">sales@touraudioguide.by</div>"
+  ],
+  "phone": [
+    {
+      "tel": "<div class=\"paragraf\"> 375 29 654-50-11</div>",
+      "operator": "velcom",
+      "messenger": [
+        "viber",
+        "whatsapp"
+      ]
+    },
+    {
+      "tel": "<div class=\"paragraf\"> 375 33 365-50-11</div>",
+      "operator": "mts",
+      "messenger": [
+        "whatsapp",
+        "viber"
+      ]
+    }
+  ],
+  "social": [
+    {
+      "name": "fb",
+      "link": "<div class=\"paragraf\">https://www.facebook.com/bypoznai/</div>"
+    },
+    {
+      "name": "vk",
+      "link": "<div class=\"paragraf\">https://vk.com/poznaiby</div>"
+    },
+    {
+      "link": "<div class=\"paragraf\">https://www.instagram.com/poznai.by/</div>",
+      "name": "in"
+    }
+  ],
+  "country": "Беларусь",
+  "region": "Минск",
+  "city": "Минск",
+  "address": "<div class=\"paragraf\">пр-т Машерова, 17, офис 701</div>",
+  "postal": "220029"
+}

@@ -1,0 +1,6 @@
+RewriteEngine on
+
+RewriteRule ^test$ agents/test [NC]
+RewriteRule ^test/$ agents/test [NC]
+RewriteRule ^test/panel$ agents/test/panel [NC]
+RewriteRule ^test/panel/$ agents/test/panel [NC]

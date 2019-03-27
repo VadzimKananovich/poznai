@@ -1,0 +1,96 @@
+.native-carousel {
+	position: relative;
+	height: 100%;
+	overflow: hidden;
+}
+.grabbing {
+    cursor: grabbing;
+    cursor: -webkit-grabbing;
+}
+.carousel-nav {
+	position: absolute;
+	height: 0;
+	background-color: transparent;
+	z-index: 10;
+	top: 50%;
+	left: 0;
+	right: 0;
+}
+.btn-prev, .btn-next {
+	width: 3em;
+	height: 3em;
+	border-radius: 50%;
+	position: absolute;
+	top: calc(-3em / 2);
+	padding: 0;
+	margin: 0;
+}
+.btn-prev {
+	left: 5px;
+}
+.btn-next {
+	right: 5px;
+}
+
+
+.carousel-body {
+	height: 100%;
+	width: auto;
+	display: flex;
+	align-items: center;
+}
+.carousel-item {
+	height: inherit;
+	overflow: hidden;
+	flex-shrink: 0;
+	flex-grow: 0;
+}
+.carousel-item > * {
+	width: 100%;
+}
+
+
+.carousel-dots {
+	position: absolute;
+	bottom: 25px;
+	left: 0;
+	right: 0;
+	z-index: 10;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.carousel-dots > * {
+	flex-grow: 0;
+	flex-shrink: 0;
+}
+.carousel-dot {
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	border: 1px solid white;
+	position: relative;
+	background-color: transparent;
+	cursor: pointer;
+	display: block;
+	margin: 10px;
+	transition: .3s;
+}
+.carousel-dot:focus{
+	outline: none;
+}
+
+.carousel-dot.active {
+	transform: scale(1.2);
+}
+.carousel-dot.active:after {
+	display: block;
+	content: '';
+	border-radius: 50%;
+	width: 60%;
+	height: 60%;
+	background-color: #fff;
+	position: absolute;
+	left: calc(50% - 60% / 2);
+	top: calc(50% - 60% / 2);
+}

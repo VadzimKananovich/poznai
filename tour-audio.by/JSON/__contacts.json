@@ -1,0 +1,64 @@
+{
+  "container": "#contactsContainer",
+  "json": "JSON/contacts.json",
+  "request_file": "includes/request.php",
+  "jsonTitle": "Контактные данные",
+  "developer": false,
+  "items": {
+    "text": {
+      "country": "Страна",
+      "region": "Область",
+      "city": "Город",
+      "address": "Адрес",
+      "postal": "Идекс"
+    }
+  },
+  "table": [
+    "email",
+    "phone",
+    "social"
+  ],
+  "email": {
+    "type": "list",
+    "array": "email",
+    "text": true,
+    "items": [
+      "Email"
+    ],
+    "tableTitle": "Email"
+  },
+  "phone": {
+    "type": "normal",
+    "array": "phone",
+    "items": {
+      "tel": "Телефон",
+      "operator": "Оператор",
+      "messenger": "Messenger"
+    },
+    "text": [
+      "tel"
+    ],
+    "operator": [
+      "operator"
+    ],
+    "messenger": [
+      "messenger"
+    ],
+    "tableTitle": "Телефоны"
+  },
+  "social": {
+    "type": "normal",
+    "array": "social",
+    "items": {
+      "link": "Адрес в сети",
+      "name": "Социальная сеть"
+    },
+    "text": [
+      "link"
+    ],
+    "social": [
+      "name"
+    ],
+    "tableTitle": "В соц. сецях"
+  }
+}

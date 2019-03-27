@@ -1,0 +1,25 @@
+.check-form *{
+	transition: .3s;
+}
+
+.check-form .error-input {
+	box-shadow: 0 0 5px #d64b1f!important;
+	background-color: #ffb39f;
+}
+.check-form .confirm-send-msg {
+	font-size: 18px;
+	font-style: italic;
+	text-transform: uppercase;
+	color: #498b31;
+	padding: 30px 10px;
+	margin: 10px;
+	transition: 1s;
+	box-shadow: 0 0 5px #498b31;
+
+	background-color: rgba(73, 139, 49, 0.2);
+}
+.check-form .confirm-send-wrap {
+	transition: 1s;
+	opacity: 1;
+
+}
