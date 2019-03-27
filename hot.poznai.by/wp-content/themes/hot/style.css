@@ -1,0 +1,13 @@
+/*   
+Theme Name: hot
+Theme URI: http://hot.poznai.by
+Description: Шаблон лендинга по горящим турам
+Author: Mikita
+Author URI: https://intarget.me
+*/
+
+div#navbar-brand, nav#navbar-main, nav#navbar-main li{display:inline-block;}
+nav#navbar-main li{padding:10px 0px 10px 10px;}
+nav#navbar-main li a{color:#fff;font-weight:bold;border-bottom:1px dashed #fff;text-decoration:none;text-transform:uppercase;}
+nav#navbar-main li a:hover, nav#navbar-main li a.active{color:#edcd0c;border-bottom:1px dashed #edcd0c;}
+span.red{background-color:#f43f3f;padding:2px 10px;}
