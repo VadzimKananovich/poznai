@@ -1,8 +1,8 @@
 <?php
 
 // $place = 'work';
-// $place = 'home';
-$place = 'hoster';
+$place = 'home';
+// $place = 'hoster';
 
 if($place == 'work'){
   $url = 'http://192.168.1.3:888/touraudio_new/';
@@ -15,13 +15,13 @@ if($place == 'work'){
 }
 
 if($place == 'home'){
-  $url = 'http://192.168.1.3:888/touraudio_new/';
+  $url = 'http://vadzim.ddns.net:89/touraudioguide.by/';
   $mail = 'vadzim.kananovich.by@gmail.com';
 
-  $host = "127.0.0.1:3388";
+  $host = "vadzim.ddns.net:3306";
   $user = "root";
   $pass = "arrogaminca";
-  $db = "touraudio";
+  $db = "poznai";
 }
 
 if($place == 'hoster'){

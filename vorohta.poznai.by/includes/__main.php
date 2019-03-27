@@ -7,8 +7,8 @@ $mail = '';
 
 
 // $place = 'work';
-// $place = 'home';
-$place = 'hoster';
+$place = 'home';
+// $place = 'hoster';
 
 
 
@@ -23,13 +23,13 @@ if($place == 'work'){
 }
 
 if($place == 'home'){
-  $url = 'http://192.168.1.5:888/vorohta.poznai.by/';
+  $url = 'http://vadzim.ddns.net:89/vorohta.poznai.by/';
   $mail = 'vadzim.kananovich.by@gmail.com';
 
-  $host = "127.0.0.1:3388";
+  $host = "vadzim.ddns.net:3306";
   $user = "root";
   $pass = "arrogaminca";
-  $db = "poznaiby";
+  $db = "poznai";
 }
 
 if($place == 'hoster'){

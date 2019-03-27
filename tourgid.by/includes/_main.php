@@ -25,13 +25,13 @@ if($place == 'home'){
   error_reporting(E_ALL);
   ini_set('display_errors', 1);
 
-  $url = 'http://vadzim.ddns.net:81/tourgid.by/';
-  $src_url = 'http://vadzim.ddns.net:81/tourgid.by/';
+  $url = 'http://vadzim.ddns.net:89/tourgid.by/';
+  $src_url = 'http://vadzim.ddns.net:89/tourgid.by/';
   // $mail = 'vadzim.kananovich.by@gmail.com';
-  $host = "127.0.0.1:3388";
+  $host = "vadzim.ddns.net:3306";
   $user = "root";
-  $pass = "root";
-  $db = "poznaiby";
+  $pass = "arrogaminca";
+  $db = "poznai";
 }
 
 if($place == 'hoster'){

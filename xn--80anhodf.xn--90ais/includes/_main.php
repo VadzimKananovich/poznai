@@ -1,7 +1,7 @@
 <?php
 // $place = 'work';
-// $place = 'home';
-$place = 'hoster';
+$place = 'home';
+// $place = 'hoster';
 // $place = 'hoster-by';
 
 if($place == 'work'){
@@ -14,12 +14,12 @@ if($place == 'work'){
 }
 
 if($place == 'home'){
-  $url = 'http://192.168.100.3:888/poznaibel/';
+  $url = 'http://vadzim.ddns.net:89/xn--80anhodf.xn--90ais/';
   // $mail = 'vadzim.kananovich.by@gmail.com';
-  $host = "127.0.0.1:3388";
+  $host = "vadzim.ddns.net:3306";
   $user = "root";
   $pass = "arrogaminca";
-  $db = "poznaiby";
+  $db = "poznai";
 }
 
 if($place == 'hoster'){

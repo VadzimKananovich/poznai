@@ -1,8 +1,10 @@
 <?php
 // $place = 'work';
-// $place = 'home';
+$place = 'home';
 // $place = 'hoster';
-$place = 'hoster-by';
+// $place = 'hoster-by';
+
+
 if($place == 'work'){
   $url = 'http://192.168.1.7:888/poznai_bel/';
   // $mail = 'vadzim.kananovich.by@gmail.com';
@@ -13,7 +15,7 @@ if($place == 'work'){
 }
 
 if($place == 'home'){
-  $url = 'http://192.168.100.3:888/poznaibel/';
+  $url = 'http://vadzim.ddns.net:89/poznaibel.by/';
   // $mail = 'vadzim.kananovich.by@gmail.com';
   $host = "127.0.0.1:3388";
   $user = "root";

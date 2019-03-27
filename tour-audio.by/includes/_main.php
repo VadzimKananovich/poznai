@@ -1,7 +1,7 @@
 <?php
 // $place = 'work';
-// $place = 'home';
-$place = 'hoster';
+$place = 'home';
+// $place = 'hoster';
 
 if($place == 'work'){
 
@@ -23,8 +23,8 @@ if($place == 'home'){
   error_reporting(E_ALL);
   ini_set('display_errors', 1);
 
-  $url = 'http://vadzim.ddns.net/truskavets_new/app/';
-  $src_url = 'http://vadzim.ddns.net/truskavets_new/app/';
+  $url = 'http://vadzim.ddns.net:89/tour-audio.by/';
+  $src_url = 'http://vadzim.ddns.net:89/tour-audio.by/';
   // $mail = 'vadzim.kananovich.by@gmail.com';
   $host = "127.0.0.1:3388";
   $user = "root";

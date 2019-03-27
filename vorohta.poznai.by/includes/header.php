@@ -33,7 +33,7 @@
           <div class="form-container">
             <div class="media-container-column" data-form-type="formoid">
               <?php
-              if($alert === true){
+              if(isset($alert) && $alert === true){
                 echo '<div class="alert alert-form alert-success text-xs-center align-center">Ваша заявка успешно отправлена</div>';
               }
               ?>

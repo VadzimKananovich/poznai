@@ -1,9 +1,9 @@
 <?php
 
-$host = "localhost";
-$user = "poznaiby_vadzim";
-$pass = "Arrogaminca1995";
-$db = "poznaiby_sites";
+$host = "vadzim.ddns.net:3306";
+$user = "root";
+$pass = "arrogaminca";
+$db = "poznai";
 
 $conn = mysqli_connect($host,$user,$pass,$db);
 
@@ -13,5 +13,11 @@ if (!$conn) {
 	echo "Debugging error: " . mysqli_connect_error() . PHP_EOL;
 	exit;
 }
+
+
+
+  error_reporting(E_ALL);
+  ini_set('display_errors', 1);
+
 
  ?>
