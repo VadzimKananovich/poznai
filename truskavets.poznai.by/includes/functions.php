@@ -40,6 +40,10 @@ class Price extends Eseful {
 			$this->weeks = array_merge($this->weeks,$first_day_week);
 			$this->create_price($price[$i]);
 		}
+		$test_week = array();
+		foreach($this->weeks as $day){
+			array_push($test_week, date('d-m-Y',$day));
+		}
 		sort($this->weeks);
 		$this->price = $price;
 	}
@@ -47,19 +51,21 @@ class Price extends Eseful {
 	private function create_first_day_week($date){
 		$date = explode('-',$date);
 		$format = $this->format;
-		// $start =  $this->today < strtotime($date[0]) ?  strtotime($date[0]) : $this-;
-		if(strtotime($date[0]) < $this->today){
-			$start = strtotime(date('d-m-Y',$this->today).' next friday');
-		} else {
-			$start = strtotime($date[0]);
+		$start = strtotime('-2 day',strtotime($date[0]));
+		if($start < $this->today){
+			return array();
 		}
-		$end = strtotime('-7 day',strtotime($date[1]));
-		$result = array();
-		array_push($result,$start);
-		do{
+		$end = strtotime('-1 day',strtotime($date[1]));
+
+		$result = array($start);
+		$test_res = array(date('d-m-Y',$start));
+		while(strtotime('+7 days',$start) < $end){
 			$start = strtotime('+7 days',$start);
 			array_push($result,$start);
-		} while($start < $end);
+
+			$test_start = date('d-m-Y',$start);
+			array_push($test_res,$test_start);
+		}
 		return $result;
 	}
 
